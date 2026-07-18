@@ -141,14 +141,18 @@ streamlit run app.py
 ![homepage
 ](image.png)
 
-Add screenshots here after deployment.
-
-- Home Page
-- Resume Analysis
 - Skill Gap Analysis
+- <img width="1395" height="456" alt="Screenshot 2026-07-18 133105" src="https://github.com/user-attachments/assets/c46fee32-ec45-4b7c-b2fb-7f31932e385e" />
+
 - Market Analysis
+- <img width="1396" height="780" alt="Screenshot 2026-07-18 133024" src="https://github.com/user-attachments/assets/d968aed1-edf9-4c4c-9859-25b237410899" />
+
 - Career Roadmap
+- <img width="1072" height="543" alt="Screenshot 2026-07-18 133049" src="https://github.com/user-attachments/assets/cb78e0c7-27f3-4967-8cd1-845821ec038e" />
+
 - AI Career Advisor
+- <img width="1617" height="577" alt="Screenshot 2026-07-18 132906" src="https://github.com/user-attachments/assets/d437925e-d4cc-4c79-a2db-b2a5eae5197f" />
+
 - PDF Report
 
 ---
