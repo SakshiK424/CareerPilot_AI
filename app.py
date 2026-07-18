@@ -2,7 +2,7 @@ import streamlit as st
 
 from database.schema import initialize_database
 st.set_page_config(
-    page_title="CareerPath AI",
+    page_title="CareerPilot AI",
     page_icon="🚀",
     layout="wide"
 )
@@ -19,7 +19,7 @@ def load_css():
 load_css()
 
 
-st.title("🚀 CareerPath AI")
+st.title("🚀 CareerPilot AI")
 
 st.markdown("""
 ## Your Personal AI Career Guidance Platform
