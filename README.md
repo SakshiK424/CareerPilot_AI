@@ -107,13 +107,13 @@ Download PDF Report
 ### Clone the repository
 
 ```bash
-git clone https://github.com/username/career-guidance-ai.git
+git clone https://github.com/SakshiK424/CareerPilot_AI
 ```
 
 ### Move into the project folder
 
 ```bash
-cd career-guidance-ai
+cd careerguidance
 ```
 
 ### Install dependencies
@@ -165,9 +165,9 @@ Add screenshots here after deployment.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Sakshi**
+**Sakshi**  **Rohit**   **Mohit**
 
 B.Tech Computer Engineering (Data Science)
 
