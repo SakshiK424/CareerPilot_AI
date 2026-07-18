@@ -1,4 +1,4 @@
-# 🚀 CareerPath AI – Multi-Agent Career Guidance Platform
+# 🚀 CareerPilot AI – Multi-Agent Career Guidance Platform
 
 An AI-powered Career Guidance Platform that helps students make informed career decisions through resume analysis, skill gap identification, market insights, and personalized career roadmaps using **LangGraph**, **LangChain**, and **Groq Llama 3.3**.
 
@@ -8,7 +8,7 @@ An AI-powered Career Guidance Platform that helps students make informed career 
 
 Many students struggle to choose the right career path, identify missing skills, and understand current industry trends. They often spend hours searching different websites for guidance.
 
-CareerPath AI solves this problem by providing personalized AI-powered career recommendations in one place.
+CareerPilot AI solves this problem by providing personalized AI-powered career recommendations in one place.
 
 ---
 
