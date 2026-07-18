@@ -1,0 +1,48 @@
+/* Background */
+.stApp {
+    background-color: #0E1117;
+    color: white;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+/* Title */
+h1 {
+    color: #60A5FA;
+    text-align: center;
+}
+
+/* Normal text */
+p, h2, h3, h4, h5, h6, label {
+    color: white !important;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    background: linear-gradient(90deg,#2563EB,#4F46E5);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 3em;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background: linear-gradient(90deg,#1D4ED8,#4338CA);
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+    background: #1E293B;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+/* Success Box */
+[data-testid="stAlert"] {
+    border-radius: 12px;
+}
